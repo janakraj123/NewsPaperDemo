@@ -1,0 +1,49 @@
+header{
+	background-color: #DEB887;
+	text-align: center;
+	height: 100px;
+	margin-top: -35px;
+}
+header h1{
+	padding-top: 16px;
+	font-size: 60px;
+}
+nav ul{
+	background-color: #778899;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	height: 37px;
+	margin-top: -5px;
+}
+nav ul li{
+	list-style-type: none;
+	float: left;
+	text-decoration: none;
+	font-size: 19px;
+	padding-left: 35px;
+	padding-top: 8px;
+	padding-right: 245px;
+	padding-inline-start: 28px;
+}
+#a1{
+	text-align: center;
+}
+#a1 table{
+	margin-top: -20px;
+}
+#a1 p{
+	font-weight: bold;
+	font-size: 17px;
+	margin-top: -8px;
+}
+#a2{
+	margin-top: -50px;
+	text-align: center;
+}
+#a2 h1{
+	font-size: 65px;
+}
+#a2 img{
+	margin-top: -40px;
+}
